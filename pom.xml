@@ -5,6 +5,23 @@
 	<packaging>jar</packaging>
 	<name>Activiti Swagger Client</name>
 	<version>6.0.0</version>
+	
+	<developers>
+		<developer>
+			<id>ConfcommercioCAF</id>
+			<name>Davide Pasqual</name>
+			<email>davide.pasqual@confcom.it</email>
+			<organization>Confcommercio Venezia CAF S.r.l.</organization>
+			<organizationUrl>https://www.confcommercioveneziacaf.it</organizationUrl>
+		</developer>
+		<developer>
+			<id>OpenPj</id>
+			<name>Piergiorgio Lucidi</name>
+			<email>plucidi@ziaconsulting.com</email>
+			<organization>Zia Consulting Inc.</organization>
+			<organizationUrl>https://www.ziaconsulting.com/</organizationUrl>
+		</developer>
+	</developers>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
